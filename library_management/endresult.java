@@ -1,8 +1,9 @@
 package library_management;
 import library_management.addbook.*;
+import library_management.connection.*;
 import library_management.details.*;
 import library_management.issue.*;
-import library_management.returning.returning;
+import library_management.returning.*;
 import java.util.*;
 public class endresult {
     public static void main(String[] args) {

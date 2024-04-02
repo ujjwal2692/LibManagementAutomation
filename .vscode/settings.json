@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "maven.view": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31.jar"
+    ]
+}
